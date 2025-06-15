@@ -1,0 +1,16 @@
+# Ignore node modules folder
+node_modules/
+
+# Ignore .env file (it contains sensitive information)
+.env
+
+# Ignore logs
+logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore build and dist folders (if present)
+dist/
+build/
