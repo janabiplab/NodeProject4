@@ -2,6 +2,10 @@
 ---
 ## File Structure
 
-- db
-  -db.js           --------- the function which connect MongoDB
+<pre>
+  db
+    |----db.js         function which connect MongoDB
+  routes
+        | 
+</pre>
   
