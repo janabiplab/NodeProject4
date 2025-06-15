@@ -55,11 +55,11 @@
 </pre>
 ###  update note
 <pre>
-  PUT https://nodeproject4.onrender.com/api/notes/<noteId>
+  PUT https://nodeproject4.onrender.com/api/notes/:id
 </pre>
 ### delete a Node
 <pre>
-  DELETE https://nodeproject4.onrender.com/api/notes/<noteId>
+  DELETE https://nodeproject4.onrender.com/api/notes/:id
 </pre>
 
 
