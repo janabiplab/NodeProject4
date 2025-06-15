@@ -34,6 +34,11 @@
   
 </pre>
 ---
+### Server start
+<pre>
+  npx nodemon
+</pre> 
+---
 ## All Types of Routing
 ###  user register
 <pre>
